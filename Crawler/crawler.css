@@ -1,0 +1,43 @@
+#crawler
+{
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	background-color:#FAFAFA;
+	font-weight:bold;
+	font: 30px arial, sans-serif;
+	padding:10px;
+}
+input[type=text]
+{
+	width: 250px;
+    padding: 8px 8px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=submit] 
+{
+	background-color: #F3F3F3;
+	font: 15px arial, sans-serif;
+	color:black;
+	 border: none;
+	 padding: 5px 9px;
+}
+input[type=submit]:hover
+{
+ cursor: pointer;
+}
+#link
+{
+	font-weight:normal;
+	font: 11px arial, sans-serif;
+	float:left;
+	background-color:#FAFAFA;
+	padding:3px;
+	margin: 3px 3px 3px 3px;
+	color: #474B4D;
+	color: #73797A;
+}
